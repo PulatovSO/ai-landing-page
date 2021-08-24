@@ -64,6 +64,7 @@ text-decoration: none;
 /* hero section */
 #hero{
   margin-top: 50px;
+  overflow: hidden;
 }
 
 .hero-text{
